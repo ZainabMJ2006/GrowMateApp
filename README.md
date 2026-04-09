@@ -24,4 +24,5 @@ GrowMate is a Java desktop application designed to help users manage and take ca
 3. Use the interface to manage plants
 
 ## Author
-Zainab Al-Muallim
+colleagues Group(Including: Zainab Almuallim)
+
